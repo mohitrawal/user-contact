@@ -1,4 +1,4 @@
-# invoice-app
+# User Contact List
 
 ## Project setup
 ```
@@ -9,6 +9,8 @@ npm install
 ```
 npm run serve
 ```
+### Description About Project
+User contact application build on VueJs,Vuex, Vuetify
 
 ### Compiles and minifies for production
 ```
